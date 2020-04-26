@@ -1,1 +1,3 @@
-# MobileNetV1_2_3-Pytorch
+# A PyTorch implementation of MobileNetV3
+
+* Surpport Convert: Pytorch -> ONNX -> NCNN

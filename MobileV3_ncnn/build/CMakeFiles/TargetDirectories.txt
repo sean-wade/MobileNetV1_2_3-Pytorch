@@ -1,0 +1,3 @@
+/home/robot/code/MobileV3_ncnn/build/CMakeFiles/edit_cache.dir
+/home/robot/code/MobileV3_ncnn/build/CMakeFiles/rebuild_cache.dir
+/home/robot/code/MobileV3_ncnn/build/CMakeFiles/Detector.dir
